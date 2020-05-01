@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.10
 MAINTAINER heartnn <bevista@gmail.com>
 USER root
 ENV BAIDUPCS_VERSION 3.7.0
